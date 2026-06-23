@@ -1,16 +1,22 @@
 # DecodeLabs Internship
 
-## Project 1: Rule-Based AI Chatbot
+This repository contains all projects completed during my AI Internship at DecodeLabs.
 
-A simple rule-based chatbot built using Python.
+## Projects
 
-### Features
-- Greeting responses
-- Exit command
-- Continuous chat loop
-- Input sanitization
-- GUI using Tkinter
-
-### Technologies Used
+### Project 1: Rule-Based Chatbot
 - Python
-- Tkinter
+- Tkinter GUI
+- Rule-based responses
+
+### Project 2: Iris Flower Classification
+- Scikit-Learn
+- KNN Algorithm
+- Confusion Matrix
+- Classification Report
+
+### Project 3: Tech Stack Recommendation System
+- TF-IDF Vectorization
+- Cosine Similarity
+- Tkinter GUI
+- Recommendation Engine
