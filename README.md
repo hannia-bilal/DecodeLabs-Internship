@@ -20,3 +20,31 @@ This repository contains all projects completed during my AI Internship at Decod
 - Cosine Similarity
 - Tkinter GUI
 - Recommendation Engine
+- 
+# Project 4 AI Vision Assistant
+
+A modern AI application capable of:
+
+- Text Recognition (OCR)
+- Object Detection
+- Image Processing
+
+## Technologies
+
+- Python
+- Streamlit
+- OpenCV
+- PyTesseract
+- Pillow
+
+## Features
+
+✔ Upload Image
+
+✔ Extract Text
+
+✔ Detect Objects
+
+✔ Save Results
+
+✔ Modern Responsive Interface
